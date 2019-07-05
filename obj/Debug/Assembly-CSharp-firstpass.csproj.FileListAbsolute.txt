@@ -1,0 +1,2 @@
+C:\Users\oguzh\OneDrive\Documents\Week8Fsm\obj\Debug\Assembly-CSharp-firstpass.csprojAssemblyReference.cache
+C:\Users\oguzh\OneDrive\Documents\Week8Fsm\obj\Debug\Assembly-CSharp-firstpass.csproj.CoreCompileInputs.cache
